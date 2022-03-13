@@ -6,7 +6,7 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "^3.0.0-27451165.114cbe3"
   },
   "dependencies": {
     "algoliasearch": "^4.12.1",
