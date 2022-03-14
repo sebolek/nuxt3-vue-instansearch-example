@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "algoliasearch": "^4.12.1",
-    "vue-instantsearch": "https://pkg.csb.dev/algolia/vue-instantsearch/commit/b86eb7d9/vue-instantsearch"
+    "vue-instantsearch": "latest"
   }
 }

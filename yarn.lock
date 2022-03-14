@@ -4601,9 +4601,10 @@ vue-bundle-renderer@^0.3.5:
   dependencies:
     bundle-runner "^0.0.1"
 
-"vue-instantsearch@https://pkg.csb.dev/algolia/vue-instantsearch/commit/b86eb7d9/vue-instantsearch":
-  version "4.3.2"
-  resolved "https://pkg.csb.dev/algolia/vue-instantsearch/commit/b86eb7d9/vue-instantsearch#9e6df24a8ce5de9304ee50af8c305c6371cd8fb1"
+vue-instantsearch@latest:
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/vue-instantsearch/-/vue-instantsearch-4.3.3.tgz#9cf5a28c34616aee17018efde4a7e440d3f7432c"
+  integrity sha512-iwaVS/EbFsCFmTU893FROwvMXYaYBriPzOni/5lINX5anL+f84YHvQuPa4UXkPNroc30O6ziarKd4Y0U+D2QhQ==
   dependencies:
     instantsearch.js "^4.37.2"
     mitt "^2.1.0"
